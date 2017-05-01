@@ -7,7 +7,8 @@
 + Change date format
 + Fix/change spelling/date discrepancies
 
-From original JSON created and by [https://github.com/malantonio/mst3k-episodes][https://github.com/malantonio/mst3k-episodes]. (Note: example has added "movie_details" and edited "air_date" format):
+
+*From original MST3K JSON created by [https://github.com/malantonio/mst3k-episodes][https://github.com/malantonio/mst3k-episodes]. (Note: Below example has newly added "movie_details" and edited "air_date" format):*
 
 I couldn't find a list like this anywhere, so why not? Movie titles are pulled
 from complete series torrent; shorts from [Satellite News episode guide][sneq].
