@@ -1,10 +1,11 @@
 # Mystery Science Theater 3000 episode guide dataset
 
 ## 5/1/2017 Major revisions include:
-======Addition of Season 11 episodes
-======Add movie_details from [Wikipedia][wikipedia]
-======Change date format
-======Fix/change spelling/date discrepancies
+
++ Addition of Season 11 episodes
++ Add movie_details from [Wikipedia][wikipedia]
++ Change date format
++ Fix/change spelling/date discrepancies
 
 From original JSON created and by [https://github.com/malantonio/mst3k-episodes][https://github.com/malantonio/mst3k-episodes]. (Note: example has added "movie_details" and edited "air_date" format):
 
