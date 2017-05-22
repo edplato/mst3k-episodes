@@ -1,5 +1,11 @@
 # Mystery Science Theater 3000 episode guide dataset
 
+## 5/22/2017 Major revisions include:
+
++ Add IMDB ids under "imdb"
++ Removed extra movie production details from "movie_details"(a lot of conflicting sources/missing info)
++ Fix/change spelling/date discrepancies
+
 ## 5/1/2017 Major revisions include:
 
 + Addition of Season 11 episodes
@@ -22,7 +28,8 @@ This list doesn't include the [1996 movie][mst3ktm].
   "season": 6,
   "episode": 21,
   "movie": "The Beast Of Yucca Flats",
-  "movie_details": "1961, B&W, Crown International, USA",
+  "imdb": "tt0054673",
+  "movie_details": "1961, B&W, USA",
   "shorts": ["Money Talks!", "Progress Island, USA"],
   "air_date": "01-21-1995"
 }
