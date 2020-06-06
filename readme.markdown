@@ -1,12 +1,16 @@
 # Mystery Science Theater 3000 episode guide dataset
 
-## 5/22/2017 Major revisions include:
+## 6/6/2020 revisions include:
+
++ Addition of Season 12 episodes
+
+## 5/22/2017 revisions include:
 
 + Add IMDB ids under "imdb"
 + Removed extra movie production details from "movie_details"(a lot of conflicting sources/missing info)
 + Fix/change spelling/date discrepancies
 
-## 5/1/2017 Major revisions include:
+## 5/1/2017 revisions include:
 
 + Addition of Season 11 episodes
 + Add movie_details from [Wikipedia][wikipedia]

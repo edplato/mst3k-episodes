@@ -222,6 +222,13 @@
     { "id": "S11E11", "season": 11, "episode": 11, "movie": "Wizards of the Lost Kingdom II", "imdb": "tt0090334", "movie_details": "1989, Color, Argentina/USA", "shorts": [], "air_date": "04-14-2017" },
     { "id": "S11E12", "season": 11, "episode": 12, "movie": "Carnival Magic", "imdb": "tt0207374", "movie_details": "1981, Color, USA", "shorts": [], "air_date": "04-14-2017" },
     { "id": "S11E13", "season": 11, "episode": 13, "movie": "The Christmas That Almost Wasn't", "imdb": "tt0059032", "movie_details": "1966, Color, USA/Italy", "shorts": [], "air_date": "04-14-2017" },
-    { "id": "S11E14", "season": 11, "episode": 14, "movie": "At the Earth's Core", "imdb": "tt0074157", "movie_details": "1976, Color, UK/USA", "shorts": [], "air_date": "04-14-2017" }
+    { "id": "S11E14", "season": 11, "episode": 14, "movie": "At the Earth's Core", "imdb": "tt0074157", "movie_details": "1976, Color, UK/USA", "shorts": [], "air_date": "04-14-2017" },
+
+    { "id": "S12E01", "season": 12, "episode": 1, "movie": "Mac and Me", "imdb": "tt0095560", "movie_details": "1988, Color, USA", "shorts": [], "air_date": "11-22-2018" },
+    { "id": "S12E02", "season": 12, "episode": 2, "movie": "Atlantic Rim", "imdb": "tt2740710", "movie_details": "2013, Color, USA", "shorts": [], "air_date": "11-22-2018" },
+    { "id": "S12E03", "season": 12, "episode": 3, "movie": "Lords of the Deep", "imdb": "tt0097781", "movie_details": "1989, Color, USA", "shorts": [], "air_date": "11-22-2018" },
+    { "id": "S12E04", "season": 12, "episode": 4, "movie": "The Day Time Ended", "imdb": "tt0080596", "movie_details": "1980, Color, USA", "shorts": [], "air_date": "11-22-2018" },
+    { "id": "S12E05", "season": 12, "episode": 5, "movie": "Killer Fish", "imdb": "tt0077800", "movie_details": "1979, Color, Italy/France/Brazil", "shorts": [], "air_date": "11-22-2018" },
+    { "id": "S12E06", "season": 12, "episode": 6, "movie": "Ator, the Fighting Eagle", "imdb": "tt0085183", "movie_details": "1982, Color, Italy", "shorts": [], "air_date": "11-22-2018" }
   ]
 }
